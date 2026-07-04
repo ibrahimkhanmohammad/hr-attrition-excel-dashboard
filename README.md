@@ -14,7 +14,7 @@
 
 ## 📸 Dashboard Preview
 
-![HR Attrition Dashboard](hr_dashboard.jpg)
+![HR Attrition Dashboard](hr_final_sheet.jpg)
 
 ---
 
